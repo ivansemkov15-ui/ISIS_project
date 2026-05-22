@@ -79,12 +79,8 @@ python main.py
 4.Отправьте в ветку (`git push origin feature/AmazingFeature`)
 5.Откройте Pull Request
 
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT.
-
 ## 📞 Контакты
 
-Ивпн Исмаилов — ваш-email@example.com
+Иван Семков — ivan.semkov.15@gmail.com
 
-Ссылка на проект: [https://github.com/ваш-юзернейм/timesheet](https://github.com/ваш-юзернейм/timesheet)
+Ссылка на проект: [](https://github.com/ivansemkov15-ui/ISIS_project)

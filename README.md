@@ -73,14 +73,17 @@ python main.py
 ## 🤝 Вклад
 
 Внесите свой вклад в развитие проекта:
-1.Форкните репозиторий
-2.Создайте ветку для вашей фичи (`git checkout -b feature/AmazingFeature`)
-3.Закоммитьте изменения (`git commit -m 'Add some AmazingFeature'`)
-4.Отправьте в ветку (`git push origin feature/AmazingFeature`)
-5.Откройте Pull Request
+
+1. Форкните репозиторий
+
+2. Создайте ветку для вашей фичи (`git checkout -b feature/AmazingFeature`)
+
+3. Закоммитьте изменения (`git commit -m 'Add some AmazingFeature'`)
+
+4. Отправьте в ветку (`git push origin feature/AmazingFeature`)
+
+5. Откройте Pull Request
 
 ## 📞 Контакты
 
 Иван Семков — ivan.semkov.15@gmail.com
-
-Ссылка на проект: [](https://github.com/ivansemkov15-ui/ISIS_project)
